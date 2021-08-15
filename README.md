@@ -1,16 +1,15 @@
 # peliculas
 
-A new Flutter project.
+Esta es una aplicación hecha con flutter, que muestra un catalogo de peliculas haciendo peticiones http a la pagina themoviedb.com. 
 
-## Getting Started
+<img src="app.png">
 
-This project is a starting point for a Flutter application.
+Se muestra información de la pelicula, así como de los actores. 
 
-A few resources to get you started if this is your first Flutter project:
+<img src="app1.png">
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+Se puede buscar una pelicula y se muestran resultados conforme se escribe el nombre de la pelicula
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img src="app2.png">
+
+
